@@ -1,0 +1,15 @@
+THIS: Numero de ocorrencias: 5
+IS: Numero de ocorrencias: 4
+NOT: Numero de ocorrencias: 3
+A: Numero de ocorrencias: 2
+DRILL: Numero de ocorrencias: 1
+HIP: Numero de ocorrencias: 1
+HOP: Numero de ocorrencias: 1
+I: Numero de ocorrencias: 1
+RAP: Numero de ocorrencias: 1
+SAMPLE: Numero de ocorrencias: 1
+SERGEANT: Numero de ocorrencias: 1
+TEXT: Numero de ocorrencias: 1
+WILL: Numero de ocorrencias: 1
+WONDER: Numero de ocorrencias: 1
+WORK: Numero de ocorrencias: 1
